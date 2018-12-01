@@ -7,7 +7,7 @@ import coincap_ticker
 
 
 GLOBAL_URL = 'https://pro-api.coinmarketcap.com'
-APP_KEY = '56d9ae92-a34a-4fe7-8c85-a2fee9fd7ce8'
+APP_KEY = 'DONT HACK ME'
 ticker_symbols = {}
 
 def get_all_cryptos():
